@@ -68,8 +68,7 @@ def squaresInSquares(sally, squares):
 
         
 
-   
-   
+
  
 
 
